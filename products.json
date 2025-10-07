@@ -1,0 +1,241 @@
+[
+    {
+        "name": "Nike Air Zoom Pegasus",
+        "price": "₹ 11,895",
+        "description": "Lightweight running shoes with responsive cushioning and breathable mesh.",
+        "ratings": "4.5",
+        "images": [
+            {
+                "images": "/images/products/1.jpg"
+
+            }
+        ],
+        "category": "Sports",
+        "seller": "Nike Official",
+        "stock": "15"
+    },
+    {
+        "name": "Atomic Habits by James Clear",
+        "price": "₹ 288",
+        "description": "Bestselling self-help book on building good habits and breaking bad ones.",
+        "ratings": "4.8",
+        "images": [
+            {
+                "images": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Penguin Publishing",
+        "stock": "100"
+    },
+    {
+        "name": "Levi’s Women's Loose Fit Jeans ",
+        "price": "₹ 1499",
+        "description": "Classic Loose-fit denim jeans made with durable cotton stretch fabric.",
+        "ratings": "4.2",
+        "images": [
+            {
+                "images": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Fashion",
+        "seller": "Levi's",
+        "stock": "30"
+    },
+    {
+        "name": "Samsung 55-inch 4K Smart TV",
+        "price": "₹ 59,990",
+        "description": "Crystal UHD display with HDR, voice assistant integration, and slim design.",
+        "ratings": "4.6",
+        "images": [
+            {
+                "images": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Samsung Store",
+        "stock": "12"
+    },
+    {
+        "name": "L’Oreal Paris Serum",
+        "price": "₹ 437.40",
+        "description": "Hydrating face serum with hyaluronic acid for radiant skin.",
+        "ratings": "4.3",
+        "images": [
+            {
+                "images": "/images/products/5.jpg"
+            }
+        ],
+        "category": "Beauty",
+        "seller": "L’Oreal Paris",
+        "stock": "50"
+    },
+    {
+        "name": "Colleen Hoover - It Start with US & It Ends with US",
+        "price": "₹ 300",
+        "description": "Romantic fiction combo featuring It Ends with Us and It Starts with Us by Colleen Hoover.",
+        "ratings": "4.8",
+        "images": [
+            {
+                "images": "/images/products/6.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Penguin Publishing",
+        "stock": "18"
+    },
+    {
+    "name": "Ray-Ban Round Metal Sunglasses",
+    "price": "₹ 990",
+    "description": "Classic unisex round metal sunglasses with UV protection and timeless design.",
+    "ratings": "4.6",
+    "images": [
+      {
+        "images": "/images/products/7.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Ray-Ban Official",
+    "stock": "25"
+  },
+  {
+    "name": "Vintage Journal Kit",
+    "price": "₹ 299",
+    "description": "Hardcover ruled journal notebook with thick cream pages, ideal for writing and sketching.",
+    "ratings": "4.7",
+    "images": [
+      {
+        "images": "/images/products/8.jpg"
+      }
+    ],
+    "category": "Stationery",
+    "seller": "Papercast",
+    "stock": "120"
+  },
+  {
+    "name": "Toodles Mini Canvas Tote Bag",
+    "price": "₹ 550",
+    "description": "Eco-friendly mini canvas tote with zipper and inner pocket — perfect for everyday use.",
+    "ratings": "4.4",
+    "images": [
+      {
+        "images": "/images/products/9.jpg"
+      }
+    ],
+    "category": "Fashion",
+    "seller": "Toodles Brand",
+    "stock": "40"
+  },
+  {
+    "name": "HydroMate Stainless Steel Water Bottle",
+    "price": "₹ 799",
+    "description": "Double-wall insulated steel bottle keeps drinks hot for 12 hours or cold for 24 hours.",
+    "ratings": "4.5",
+    "images": [
+      {
+        "images": "/images/products/10.jpg"
+      }
+    ],
+    "category": "Lifestyle",
+    "seller": "HydroMate",
+    "stock": "60"
+  },
+  {
+    "name": "Mi Compact Bluetooth Speaker 2",
+    "price": "₹ 899",
+    "description": "Portable Bluetooth speaker with crystal-clear sound and 6-hour battery life.",
+    "ratings": "4.3",
+    "images": [
+      {
+        "images": "/images/products/11.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Mi Official",
+    "stock": "22"
+  },
+  {
+    "name": "Wild Stone Code Body Perfume for Men",
+    "price": "₹ 299",
+    "description": "Long-lasting body spray with a refreshing masculine fragrance.",
+    "ratings": "4.5",
+    "images": [
+      {
+        "images": "/images/products/12.jpg"
+      }
+    ],
+    "category": "Beauty",
+    "seller": "Wild Stone",
+    "stock": "80"
+  },
+  {
+    "name": "Clovia Women’s Cotton Printed T-Shirt",
+    "price": "₹ 399",
+    "description": "Soft cotton casual tee with stylish prints, perfect for daily wear.",
+    "ratings": "4.2",
+    "images": [
+      {
+        "images": "/images/products/13.jpg"
+      }
+    ],
+    "category": "Fashion",
+    "seller": "Clovia",
+    "stock": "35"
+  },
+  {
+    "name": "Skyline Travel Pouch Set",
+    "price": "₹ 399",
+    "description": "Set of 3 waterproof travel pouches for cosmetics, chargers, and essentials.",
+    "ratings": "4.6",
+    "images": [
+      {
+        "images": "/images/products/14.jpg"
+      }
+    ],
+    "category": "Travel",
+    "seller": "Skyline",
+    "stock": "50"
+  },
+  {
+    "name": "Aurora Pastel Gel Pen Set",
+    "price": "₹ 199",
+    "description": "Set of 10 smooth-writing pastel gel pens perfect for journaling and doodling.",
+    "ratings": "4.8",
+    "images": [
+      {
+        "images": "/images/products/15.jpg"
+      }
+    ],
+    "category": "Stationery",
+    "seller": "Aurora Pens",
+    "stock": "200"
+  },
+  {
+    "name": "Chumbak Ceramic Coffee Mug",
+    "price": "₹ 200",
+    "description": "Cute printed ceramic mug with colorful patterns and a sturdy grip.",
+    "ratings": "4.7",
+    "images": [
+      {
+        "images": "/images/products/16.jpg"
+      }
+    ],
+    "category": "Home & Living",
+    "seller": "Chumbak",
+    "stock": "90"
+  },
+  {
+    "name": "Canvas Wall Art – Minimal Abstract Design",
+    "price": " ₹ 550",
+    "description": "Aesthetic minimal wall decor canvas to enhance your room’s modern look.",
+    "ratings": "4.6",
+    "images": [
+      {
+        "images": "/images/products/17.jpg"
+      }
+    ],
+    "category": "Home Decor",
+    "seller": "Artify Studio",
+    "stock": "20"
+  }
+]
